@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/joemoore/Documents/Projects/GameOfLife/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -o CMakeFiles/GameOfLife.dir/main.cpp.o -c /Users/joemoore/Documents/Projects/GameOfLife/main.cpp",
+  "file": "/Users/joemoore/Documents/Projects/GameOfLife/main.cpp",
+  "output": "CMakeFiles/GameOfLife.dir/main.cpp.o"
+}
+]

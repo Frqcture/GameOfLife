@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/joemoore/Documents/Projects/GameOfLife/main'
-relocations:     []
-...
